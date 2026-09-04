@@ -92,7 +92,7 @@ Atualmente curso **Bacharelado em Sistemas de Informação no Instituto Federal 
 ### 🔗 APIs & Integrações
 
 <p style="white-space: nowrap;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" width="40" alt="n8n" title="n8n"/>
+<img src="https://images.seeklogo.com/logo-png/47/1/n8n-logo-png_seeklogo-470809.png?v=1968950279022894648" width="40" alt="n8n" title="n8n"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40" alt="JSON" title="JSON"/>
 </p>
