@@ -161,3 +161,38 @@ Busco integrar IA aos sistemas de forma prática, utilizando modelos de linguage
                        │
                        ▼
                  SOLUÇÃO
+```
+# 📫 Onde me encontrar
+
+<p align="left">
+
+<a href="mailto:jcalvesbezerra11@gmail.com">
+<img
+  src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=mail&logoColor=white"
+  alt="Email"
+/>
+</a>
+
+<a href="https://www.linkedin.com/in/julio-cesar-alves-bezerra">
+<img
+  src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
+</a>
+
+<a href="https://github.com/Dev-OJulio">
+<img
+  src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+**"Transformando problemas reais em soluções através de código, automação e tecnologia."**
+
+</p>
