@@ -34,6 +34,45 @@ Atualmente curso **Bacharelado em Sistemas de Informação no Instituto Federal 
 
 ---
 
+## 💼 Experiência
+
+### 🏢 Grupo Bergano — Analista de Sistemas Júnior
+**novembro de 2025 – Presente · Fortaleza, Ceará, Brasil**
+
+Atuo em todo o ciclo de desenvolvimento de software: análise de demandas internas, implementação, testes, manutenção e evolução de soluções utilizadas pela empresa.
+
+- Desenvolvimento back-end com **Ruby on Rails, TypeScript e PostgreSQL**
+- Interfaces modernas e dinâmicas com **Hotwire (Turbo/Stimulus)** e **Tailwind CSS**
+- Testes automatizados com **Minitest** e **Capybara**, com validações contínuas em pipelines de **CI/CD**
+- Automação de processos e integrações entre sistemas via **n8n**, conectando APIs, bancos de dados e plataformas digitais
+- Soluções com **Inteligência Artificial (LLMs)** para automação, extração e validação inteligente de documentos
+
+### 🎨 Jr Gráfica — Designer Gráfico
+**dezembro de 2024 – novembro de 2025 (1 ano) · Várzea Alegre, Ceará, Brasil**
+
+Criação de materiais visuais e identidade gráfica, trabalhando principalmente com **CorelDRAW** em peças digitais e impressas. Desenvolvi habilidades em composição visual, tipografia, cores e hierarquia de informação — conhecimentos que hoje complementam minha atuação em tecnologia, especialmente na construção de interfaces.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)**
+  Bacharelado em Sistemas de Informação · *agosto de 2025 – agosto de 2029*
+- **EEEP Doutor José Iran Costa**
+  Técnico em Informática · *fevereiro de 2022 – dezembro de 2024*
+
+---
+
+## 📜 Certificações
+
+- ✅ Node.js — Certificado de Conclusão de Curso
+- ✅ Introduction to Model Context Protocol (MCP)
+- ✅ Claude Code 101
+- ✅ AI Fluency Framework & Foundations
+- ✅ Introduction to Claude Cowork
+
+---
+
 # 🛠️ Tecnologias
 
 <table>
