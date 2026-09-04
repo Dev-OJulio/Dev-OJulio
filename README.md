@@ -1,40 +1,56 @@
-# 🛠️ Tecnologias e Ferramentas
+# 👨🏻‍💻 Júlio César Alves Bezerra
+
+**`Analista de Sistemas Júnior | Back-End | Automação | Integração de APIs | IA Aplicada`**
+
+Olá! Eu sou **Júlio César Alves Bezerra**, desenvolvedor de software com foco em **desenvolvimento Back-End, automação de processos, integração entre sistemas e Inteligência Artificial aplicada**.
+
+Atualmente atuo como **Analista de Sistemas Júnior no Grupo Bergano**, participando de todo o ciclo de desenvolvimento de software, desde o levantamento e análise de demandas até a implementação, testes, manutenção e evolução das soluções utilizadas pela empresa.
+
+No desenvolvimento de software, trabalho principalmente com **Ruby on Rails, TypeScript e PostgreSQL**, além de desenvolver interfaces modernas utilizando **Hotwire, Turbo, Stimulus e Tailwind CSS**.
+
+Também atuo com **automação de processos e integração de sistemas utilizando n8n**, conectando APIs, bancos de dados e diferentes plataformas para reduzir tarefas manuais, aumentar a produtividade e otimizar processos.
+
+Tenho especial interesse em **Inteligência Artificial e LLMs**, desenvolvendo soluções voltadas para automação, extração e validação inteligente de informações e documentos.
+
+Minha trajetória na tecnologia começou ainda na infância, motivada pela curiosidade de entender como os sistemas funcionam. Essa mesma curiosidade continua sendo uma das minhas principais motivações para aprender, evoluir e enfrentar novos desafios.
+
+Atualmente curso **Bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)**, fortalecendo minha base em desenvolvimento de software, engenharia de sistemas e inovação tecnológica.
+
+---
+
+## 🧠 Sobre mim
+
+- 💻 Desenvolvimento **Back-End**
+- ⚙️ **Automação de processos**
+- 🔗 **Integração de APIs e sistemas**
+- 🤖 **Inteligência Artificial e LLMs**
+- 🏗️ **Arquitetura e engenharia de software**
+- 🧪 **Testes automatizados**
+- 🚀 **CI/CD**
+- 🗄️ **Banco de dados**
+- 🔄 **Workflows e integrações com n8n**
+- 📚 Bacharelando em **Sistemas de Informação**
+- 🎨 Experiência anterior com **Design Gráfico**
+
+---
+
+# 🛠️ Tecnologias
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💻 Back-End
 
-<p>
-<img
-    alt="Ruby"
-    title="Ruby"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"
-/>
-
-<img
- alt="Ruby on Rails"
- title="Ruby on Rails"
- width="40px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg"
-/>
-
-<img
- alt="TypeScript"
- title="TypeScript"
- width="40px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-
-<img
- alt="Python"
- title="Python"
- width="40px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
+<p style="white-space: nowrap;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="40" alt="Ruby" title="Ruby"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" width="40" alt="Ruby on Rails" title="Ruby on Rails"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
 </p>
 
 </td>
@@ -43,60 +59,30 @@
 
 ### 🎨 Front-End
 
-<p>
-<img
-    alt="HTML5"
-    title="HTML5"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-
-<img
- alt="CSS3"
- title="CSS3"
- width="40px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
-<img
- alt="Hotwire"
- title="Hotwire"
- width="40px"
- src="https://raw.githubusercontent.com/hotwired/stimulus/main/assets/logo.svg"
-/>
-
-<img
- alt="Tailwind CSS"
- title="Tailwind CSS"
- width="40px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
-
+<p style="white-space: nowrap;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/hotwired/stimulus/main/assets/logo.svg" width="40" alt="Hotwire / Stimulus" title="Hotwire / Stimulus"/>
 </p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🗄️ Banco de Dados
 
-<p>
-<img
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-
-<img
- alt="Redis"
- title="Redis"
- width="40px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
-/>
-
+<p style="white-space: nowrap;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
 </p>
 
 </td>
@@ -105,58 +91,75 @@
 
 ### 🔗 APIs & Integrações
 
-<p>
-<img
-    alt="REST API"
-    title="REST API"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-/>
-
-<img
- alt="n8n"
- title="n8n"
- width="80px"
- src="https://seeklogo.com/images/N/n8n-logo-05B4A5A5B4-seeklogo.com.png"
-/>
-
+<p style="white-space: nowrap;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" width="40" alt="n8n" title="n8n"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40" alt="JSON" title="JSON"/>
 </p>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-### ⚙️ Ferramentas & DevOps
+# ⚙️ Ferramentas & DevOps
 
-<p>
-<img
-    alt="Git"
-    title="Git"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img
- alt="GitHub"
- title="GitHub"
- width="40px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-<img
- alt="Docker"
- title="Docker"
- width="40px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-
-<img
- alt="Linux"
- title="Linux"
- width="40px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
-
+<p style="white-space: nowrap;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"/>
 </p>
+
+---
+
+# 🤖 Inteligência Artificial
+
+Tenho interesse especial na utilização de **Inteligência Artificial para resolver problemas reais e automatizar processos**.
+
+### Atualmente estudo e desenvolvo soluções envolvendo:
+
+- LLMs
+- Inteligência Artificial aplicada
+- Automação inteligente
+- Extração de informações
+- Validação inteligente de documentos
+- Agentes de IA
+- Model Context Protocol (MCP)
+- Claude Code
+- Claude Cowork
+
+Busco integrar IA aos sistemas de forma prática, utilizando modelos de linguagem como componentes capazes de **processar informações, automatizar tarefas e ampliar as capacidades dos sistemas**.
+
+---
+
+# ⚙️ O que eu gosto de construir
+
+```text
+                    PROBLEMA
+                       │
+                       ▼
+               Análise da necessidade
+                       │
+                       ▼
+                Desenvolvimento
+                       │
+          ┌────────────┼────────────┐
+          ▼            ▼            ▼
+       Back-End      APIs       Automação
+          │            │            │
+          └────────────┼────────────┘
+                       ▼
+                 Banco de Dados
+                       │
+                       ▼
+                Inteligência
+                Artificial
+                       │
+                       ▼
+                 SOLUÇÃO
